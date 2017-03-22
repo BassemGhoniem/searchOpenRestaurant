@@ -1,0 +1,23 @@
+{
+  "name": "elmenusTask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "load.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bassem Ghoniem <bassem.ghoniem@yahoo.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.1",
+    "elasticsearch": "^12.1.3",
+    "elasticsearch-csv": "0.0.3",
+    "express": "^4.15.2",
+    "install": "^0.8.7",
+    "joi": "^10.2.2",
+    "moment": "^2.18.1",
+    "morgan": "^1.8.1"
+  }
+}
